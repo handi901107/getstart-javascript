@@ -13,7 +13,7 @@ function personC(){
 function PersonD(){
     console.log('4');
 }
-function startSoundOFF(){
+function startSoundOff(){
     PersonA();
 }
-startSoundOFF();
+startSoundOff();
